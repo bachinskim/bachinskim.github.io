@@ -491,6 +491,12 @@ table.dataTable {
 .st6{fill:none;stroke:#00417d;stroke-width:2;stroke-miterlimit:10;}
 .st7{fill:#FFFFFF;stroke:#00417d;stroke-width:8;stroke-miterlimit:10;}
 
+hr {
+	border: 1px solid #00417d;
+	margin-top: 30pt;
+	margin-bottom: 30pt;
+}
+
 .fs {font-family:Computer Modern Sans; font-size:28px; stroke:#00417d; fill:#00417d;}
 .fn {font-family:Computer Modern Sans; font-size: 64px; stroke: #bbb;fill: #bbb;}
 .f11 {font-family:Computer Modern Sans; font-size: 11px;}
