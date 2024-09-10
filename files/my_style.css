@@ -497,6 +497,10 @@ hr {
 	margin-bottom: 30pt;
 }
 
+h2 {
+	margin: 20pt;
+}
+
 .fs {font-family:Computer Modern Sans; font-size:28px; stroke:#00417d; fill:#00417d;}
 .fn {font-family:Computer Modern Sans; font-size: 64px; stroke: #bbb;fill: #bbb;}
 .f11 {font-family:Computer Modern Sans; font-size: 11px;}
